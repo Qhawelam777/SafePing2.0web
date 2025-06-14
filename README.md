@@ -1,3 +1,4 @@
+![file_00000000dc7461f8a7d140afbd0627e8 (2)](https://github.com/user-attachments/assets/3db4f395-235f-474b-ab74-f6025efb09a3)
 # SafePing2.0web<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
